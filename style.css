@@ -1,7 +1,21 @@
 body {
-    color: rgb(255, 0, 0);
+    background-color: black;
+    font-family: "Bokor", system-ui;
+    font-weight: 200;
+    font-style: normal;
+    font-size:small;
+}
+
+h2 {
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
 }
 
 h1 {
-    color: black;
+    color: white; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
